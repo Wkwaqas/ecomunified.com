@@ -2407,7 +2407,7 @@ $("#lead-formx2").submit(function (event) {
           <div class="accordion-item">
             <h2 class="accordion-header" id="headingzero">
               <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="true" aria-controls="collapseZero">
-                <u style="color:#afa25c;    font-size: 14px;    font-weight: 600;">CLIENT'S PRIVACY NOTICE:</u> At RushEcom, we recognize and uphold the paramount importance of client confidentiality and privacy. In strict adherence to our contractual obligations, we maintain a comprehensive non-disclosure policy, ensuring that the business operations, financial details, and proprietary information of our clients remain undisclosed and are not used for promotional or advertising purposes on this website.<span>Read More...</span><i class="fas fa-chevron-down"></i>
+                <u style="color:#e30613;    font-size: 14px;    font-weight: 600;">CLIENT'S PRIVACY NOTICE:</u> At RushEcom, we recognize and uphold the paramount importance of client confidentiality and privacy. In strict adherence to our contractual obligations, we maintain a comprehensive non-disclosure policy, ensuring that the business operations, financial details, and proprietary information of our clients remain undisclosed and are not used for promotional or advertising purposes on this website.<span>Read More...</span><i class="fas fa-chevron-down"></i>
               </button>
             </h2>
             <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingzero" data-bs-parent="#accordionExample">
